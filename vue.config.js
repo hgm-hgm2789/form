@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath :'./dist',
+    publicPath :'https://hgm-hgm2789.github.io/form/dist',
     css: {
         loaderOptions: {
             postcss: {
