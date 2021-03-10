@@ -1,4 +1,5 @@
 module.exports = {
+    publicPath :'./dist',
     css: {
         loaderOptions: {
             postcss: {
