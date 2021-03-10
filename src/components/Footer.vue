@@ -31,7 +31,8 @@ export default {
   align-items: center;
   border: none;
 }
-.color {
+#Footer .color {
+  border-color: rgb(108, 150, 188);
   background-color: rgb(108, 150, 188);
   border-radius: 4% 4% 4% 4%;
 }
